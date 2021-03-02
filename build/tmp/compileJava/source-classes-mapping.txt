@@ -1,0 +1,6 @@
+com/codegym/emailValid/ApplicationConfig.java
+ com.codegym.emailValid.ApplicationConfig
+com/codegym/emailValid/AppInit.java
+ com.codegym.emailValid.AppInit
+com/codegym/emailValid/controller/EmailController.java
+ com.codegym.emailValid.controller.EmailController
